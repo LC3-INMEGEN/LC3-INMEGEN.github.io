@@ -15,10 +15,14 @@ UATs
 
 Calendario editorial 2014
 ====================
+mes       | tema
+----------|------
 Diciembre | Infograma de Antropomorfía. Obesidad y Nutrición. 
 
 Calendario editorial 2015
 ====================
+mes           | tema
+--------------|------------------------------------
 Enero         | Infograma de Enfermedades por Región
 Febrero       | Mapa de bibliografía para Cardiogenómica
 Marzo         | Infograma de Nutrientes por perfil
