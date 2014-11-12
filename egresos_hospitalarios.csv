@@ -1,0 +1,401 @@
+codigo, nombre, year, count
+O809,Parto único espontáneo  sin otra especificación,2009,610
+R69X,Atención materna por muerte intrauterina,2009,195
+F200,Esquizofrenia paranoide,2009,134
+O829,Parto por cesárea  sin otra especificación,2009,132
+J189,Neumonía  no especificada,2009,130
+N180,Insuficiencia renal terminal,2009,105
+O800,Parto único espontáneo  sin otra especificación,2009,102
+N189,Insuficiencia renal crónica  no especificada,2009,88
+P073,Diarrea y gastroenteritis de presunto origen infeccioso,2009,83
+J180,Bronconeumonía  no especificada,2009,80
+J219,Bronquiolitis aguda  no especificada,2009,70
+K359,Apendicitis aguda  no especificada,2009,63
+C910,Leucemia linfoblástica aguda,2009,60
+A419,Septicemia  no especificada,2009,49
+J46X,Estado asmático,2009,48
+O064,Aborto no especificado incompleto  sin complicación,2009,45
+P369,Sepsis bacteriana del recién nacido  no especificada,2009,45
+O342,Atención materna por cicatriz uterina debida a cirugía previa,2009,44
+K37X,Apendicitis  no especificada,2009,43
+F062,Trastorno delirante [esquizofreniforme]  orgánico,2009,39
+O470,Falso trabajo de parto antes de las 37 semanas completas de gestación,2009,35
+I258,Otras formas de enfermedad isquémica crónica del corazón,2009,33
+O034,Aborto espontáneo incompleto  sin complicación,2009,31
+P071,Regurgitación y rumiación del recién nacido,2009,31
+S828,Fractura de otras partes de la pierna,2009,31
+F332,Trastorno depresivo recurrente  episodio depresivo grave presente sin síntomas psicóticos,2009,30
+O429,Ruptura prematura de las membranas  sin otra especificación,2009,29
+P220,Síndrome de dificultad respiratoria del recién nacido,2009,29
+S720,Fractura del cuello de fémur,2009,29
+O601,Trabajo de parto prematuro con parto prematuro,2009,28
+P229,Dificultad respiratoria del recién nacido  no especificada,2009,27
+P599,Ictericia neonatal  no especificada,2009,27
+Q248,Sepsis bacteriana del recién nacido  no especificada,2009,27
+I679,Enfermedad cerebrovascular  no especificada,2009,26
+S069,Traumatismo intracraneal  no especificado,2009,26
+S822,Fractura de la diáfisis de la tibia,2009,26
+I091,Enfermedades reumáticas del endocardio  válvula no especificada,2009,25
+O821,Trabajo de parto prematuro con parto prematuro,2009,24
+O410,Oligohidramnios,2009,23
+C920,Leucemia mieloide aguda,2009,22
+J159,Neumonía bacteriana  no especificada,2009,22
+C509,Hipertensión esencial (primaria),2009,21
+E118,Diabetes mellitus no insulinodependiente  con complicaciones no especificadas,2009,21
+K922,Hemorragia gastrointestinal  no especificada,2009,21
+F312,Trastorno afectivo bipolar  episodio maníaco presente con síntomas psicóticos,2009,20
+S423,Fractura de la diáfisis del húmero,2009,20
+C349,Tumor maligno de los bronquios o del pulmón  parte no especificada,2009,19
+F203,Esquizofrenia indiferenciada,2009,19
+F250,Trastorno esquizoafectivo  no especificado,2009,19
+J181,Neumonía lobar  no especificada,2009,19
+J459,Asma  no especificado,2009,19
+O069,Aborto no especificado completo o no especificado  sin complicación,2009,19
+O420,Infección del riñón en el embarazo,2009,19
+S068,Otros traumatismos intracraneales,2009,19
+S729,Fractura del fémur  parte no especificada,2009,19
+C56X,Tumor maligno del ovario,2009,18
+K729,Insuficiencia hepática  no especificada,2009,18
+K801,Cálculo de la vesícula biliar con otra colecistitis,2009,18
+N390,Infección de vías urinarias  sitio no especificado,2009,18
+O820,Trabajo de parto prematuro con parto prematuro,2009,18
+E117,Diabetes mellitus no insulinodependiente  con complicaciones múltiples,2009,17
+F195,Trastornos mentales y del comportamiento debidos al uso de múltiples drogas y al uso de otras sustancias psicoactivas  trastorno psicótico,2009,17
+O063,Aborto no especificado incompleto  con otras complicaciones especificadas y las no especificadas,2009,17
+O141,Preeclampsia severa,2009,17
+T292,Quemaduras de múltiples regiones  mencionadas como de no más de segundo grado,2009,17
+Z303,Extracción menstrual,2009,17
+A09X,Diarrea y gastroenteritis de presunto origen infeccioso,2009,16
+E112,Diabetes mellitus no insulinodependiente  con complicaciones renales,2009,16
+J90X,Derrame pleural no clasificado en otra parte,2009,16
+Z762,Consulta para atención y supervisión de la salud de otros niños o lactantes sanos,2009,16
+N039,Síndrome nefrítico crónico  no especificada,2009,15
+O300,Parto múltiple  todos por cesárea,2009,15
+S026,Fractura del maxilar inferior,2009,15
+S099,Traumatismo de la cabeza  no especificado,2009,15
+I10X,Hipertensión esencial (primaria),2009,14
+J441,Enfermedad pulmonar obstructiva crónica con exacerbación aguda  no especificada,2009,14
+O13X,Hipertensión gestacional [inducida por el embarazo] sin proteinuria significativa,2009,14
+O321,Atención materna por presentación de nalgas,2009,14
+P219,Asfixia del nacimiento  no especificada,2009,14
+P228,Otras dificultades respiratorias del recién nacido,2009,14
+D259,Leiomioma del útero  sin otra especificación,2009,13
+I219,Infarto agudo del miocardio  sin otra especificación,2009,13
+I500,Insuficiencia renal crónica  no especificada,2009,13
+K811,Colecistitis crónica,2009,13
+P221,Taquipnea transitoria del recién nacido,2009,13
+S424,Fractura de la epífisis inferior del húmero,2009,13
+I678,Enfermedades de las neuronas motoras,2009,12
+J09X,Influenza debida a virus de la influenza aviar identificado,2009,12
+J129,Neumonía viral  no especificada,2009,12
+K566,Otras obstrucciones intestinales y las no especificadas,2009,12
+S061,Edema cerebral traumático,2009,12
+T311,Quemaduras que afectan del 10 al 19% de la superficie del cuerpo,2009,12
+C169,Tumor maligno del estómago  parte no especificada,2009,11
+C833,Linfoma no Hodgkin de células grandes (difuso),2009,11
+E119,Neumonía  no especificada,2009,11
+E872,Acidosis,2009,11
+F322,Historia personal de lesión autoinfligida intencionalmente,2009,11
+F333,Trastorno depresivo recurrente actualmente en remisión,2009,11
+K409,Hernia inguinal unilateral o no especificada  sin obstrucción ni gangrena,2009,11
+N188,Otras insuficiencias renales crónicas,2009,11
+O809,Parto único espontáneo  sin otra especificación,2010,37299
+O829,Parto por cesárea  sin otra especificación,2010,8431
+R69X,Atención materna por muerte intrauterina,2010,7074
+N180,Insuficiencia renal terminal,2010,5551
+O064,Aborto no especificado incompleto  sin complicación,2010,4433
+N189,Insuficiencia renal crónica  no especificada,2010,4011
+K359,Apendicitis aguda  no especificada,2010,3671
+K409,Hernia inguinal unilateral o no especificada  sin obstrucción ni gangrena,2010,2808
+O800,Parto único espontáneo  sin otra especificación,2010,2782
+K801,Cálculo de la vesícula biliar con otra colecistitis,2010,2765
+D259,Leiomioma del útero  sin otra especificación,2010,2621
+J189,Neumonía  no especificada,2010,2542
+C910,Leucemia linfoblástica aguda,2010,2468
+O034,Aborto espontáneo incompleto  sin complicación,2010,2164
+P073,Diarrea y gastroenteritis de presunto origen infeccioso,2010,2074
+O342,Atención materna por cicatriz uterina debida a cirugía previa,2010,2001
+K811,Colecistitis crónica,2010,1733
+O601,Trabajo de parto prematuro con parto prematuro,2010,1701
+I258,Otras formas de enfermedad isquémica crónica del corazón,2010,1659
+K37X,Apendicitis  no especificada,2010,1654
+S069,Traumatismo intracraneal  no especificado,2010,1579
+O470,Falso trabajo de parto antes de las 37 semanas completas de gestación,2010,1577
+O429,Ruptura prematura de las membranas  sin otra especificación,2010,1483
+O821,Trabajo de parto prematuro con parto prematuro,2010,1434
+C509,Hipertensión esencial (primaria),2010,1381
+A09X,Diarrea y gastroenteritis de presunto origen infeccioso,2010,1330
+F200,Esquizofrenia paranoide,2010,1318
+P369,Sepsis bacteriana del recién nacido  no especificada,2010,1315
+O069,Aborto no especificado completo o no especificado  sin complicación,2010,1282
+O420,Infección del riñón en el embarazo,2010,1266
+S828,Fractura de otras partes de la pierna,2010,1257
+O410,Oligohidramnios,2010,1254
+J180,Bronconeumonía  no especificada,2010,1237
+O339,Atención materna por desproporción de origen no especificado,2010,1219
+J342,Desviación del tabique nasal,2010,1218
+J219,Bronquiolitis aguda  no especificada,2010,1175
+Z370,Atención no especificada relacionada con la procreación,2010,1175
+Q248,Sepsis bacteriana del recién nacido  no especificada,2010,1154
+J46X,Estado asmático,2010,1146
+O141,Preeclampsia severa,2010,1095
+P599,Ictericia neonatal  no especificada,2010,1051
+A419,Septicemia  no especificada,2010,1025
+K429,Hernia umbilical sin obstrucción ni gangrena,2010,1022
+N40X,Hiperplasia de la próstata,2010,985
+C56X,Tumor maligno del ovario,2010,906
+S822,Fractura de la diáfisis de la tibia,2010,837
+Z303,Extracción menstrual,2010,836
+C539,Tumor maligno del cuello del útero  sin otra especificación,2010,824
+O13X,Hipertensión gestacional [inducida por el embarazo] sin proteinuria significativa,2010,804
+K922,Hemorragia gastrointestinal  no especificada,2010,801
+K566,Otras obstrucciones intestinales y las no especificadas,2010,778
+S424,Fractura de la epífisis inferior del húmero,2010,772
+O021,Aborto retenido,2010,735
+H269,Catarata  no especificada,2010,731
+S720,Fractura del cuello de fémur,2010,730
+Z359,Supervisión de embarazo de alto riesgo  sin otra especificación,2010,712
+C629,Tumor maligno del testículo  no especificado,2010,703
+P228,Otras dificultades respiratorias del recién nacido,2010,690
+N390,Infección de vías urinarias  sitio no especificado,2010,680
+C504,Tumor maligno del cuadrante superior externo de la mama,2010,671
+E118,Diabetes mellitus no insulinodependiente  con complicaciones no especificadas,2010,669
+K729,Insuficiencia hepática  no especificada,2010,663
+R104,Constipación,2010,648
+I10X,Hipertensión esencial (primaria),2010,641
+Z302,Esterilización,2010,612
+O321,Atención materna por presentación de nalgas,2010,610
+N47X,Prepucio redundante  fimosis y parafimosis,2010,606
+H258,Otras cataratas seniles,2010,600
+K800,Cálculo de la vesícula biliar con colecistitis aguda,2010,595
+K439,Hernia ventral sin obstrucción ni gangrena,2010,587
+K219,Enfermedad del reflujo gastroesofágico sin esofagitis,2010,581
+J459,Asma  no especificado,2010,580
+P221,Taquipnea transitoria del recién nacido,2010,567
+O820,Trabajo de parto prematuro con parto prematuro,2010,565
+S099,Traumatismo de la cabeza  no especificado,2010,561
+O033,Aborto espontáneo incompleto  con otras complicaciones especificadas y las no especificadas,2010,560
+P220,Síndrome de dificultad respiratoria del recién nacido,2010,560
+O200,Amenaza de aborto,2010,537
+O244,Diabetes mellitus que se origina con el embarazo,2010,534
+Z380,Producto único  nacido en hospital,2010,531
+S423,Fractura de la diáfisis del húmero,2010,528
+D251,Leiomioma intramural del útero,2010,525
+G409,Epilepsia  tipo no especificado,2010,525
+O680,Trabajo de parto y parto complicados por anomalía de la frecuencia cardíaca fetal,2010,525
+O363,Atención materna por signos de hipoxia fetal,2010,519
+O063,Aborto no especificado incompleto  con otras complicaciones especificadas y las no especificadas,2010,511
+J159,Neumonía bacteriana  no especificada,2010,510
+N939,Hemorragia vaginal y uterina anormal  no especificada,2010,505
+E119,Neumonía  no especificada,2010,501
+I091,Enfermedades reumáticas del endocardio  válvula no especificada,2010,501
+O364,Atención materna por muerte intrauterina,2010,497
+J350,Amigdalitis crónica,2010,490
+K859,Pancreatitis aguda  no especificada,2010,490
+S729,Fractura del fémur  parte no especificada,2010,488
+O039,Aborto espontáneo completo o no especificado  sin complicación,2010,487
+E112,Diabetes mellitus no insulinodependiente  con complicaciones renales,2010,486
+S068,Otros traumatismos intracraneales,2010,486
+C349,Tumor maligno de los bronquios o del pulmón  parte no especificada,2010,474
+O689,Trabajo de parto y parto complicados por sufrimiento fetal  sin otra especificación,2010,467
+P071,Regurgitación y rumiación del recién nacido,2010,466
+O809,Parto único espontáneo  sin otra especificación,2011,36834
+R69X,Atención materna por muerte intrauterina,2011,16561
+O829,Parto por cesárea  sin otra especificación,2011,9001
+N180,Insuficiencia renal terminal,2011,5801
+N189,Insuficiencia renal crónica  no especificada,2011,4342
+K359,Apendicitis aguda  no especificada,2011,4332
+O064,Aborto no especificado incompleto  sin complicación,2011,3714
+K409,Hernia inguinal unilateral o no especificada  sin obstrucción ni gangrena,2011,3041
+J189,Neumonía  no especificada,2011,2933
+C910,Leucemia linfoblástica aguda,2011,2796
+K801,Cálculo de la vesícula biliar con otra colecistitis,2011,2481
+D259,Leiomioma del útero  sin otra especificación,2011,2347
+O800,Parto único espontáneo  sin otra especificación,2011,2316
+P073,Diarrea y gastroenteritis de presunto origen infeccioso,2011,2004
+K811,Colecistitis crónica,2011,1924
+O601,Trabajo de parto prematuro con parto prematuro,2011,1792
+I258,Otras formas de enfermedad isquémica crónica del corazón,2011,1694
+O034,Aborto espontáneo incompleto  sin complicación,2011,1687
+O342,Atención materna por cicatriz uterina debida a cirugía previa,2011,1675
+O069,Aborto no especificado completo o no especificado  sin complicación,2011,1642
+J219,Bronquiolitis aguda  no especificada,2011,1528
+O470,Falso trabajo de parto antes de las 37 semanas completas de gestación,2011,1519
+C509,Hipertensión esencial (primaria),2011,1510
+F200,Esquizofrenia paranoide,2011,1427
+P369,Sepsis bacteriana del recién nacido  no especificada,2011,1411
+O429,Ruptura prematura de las membranas  sin otra especificación,2011,1399
+S069,Traumatismo intracraneal  no especificado,2011,1377
+Q248,Sepsis bacteriana del recién nacido  no especificada,2011,1303
+O821,Trabajo de parto prematuro con parto prematuro,2011,1300
+S828,Fractura de otras partes de la pierna,2011,1280
+A09X,Diarrea y gastroenteritis de presunto origen infeccioso,2011,1275
+O339,Atención materna por desproporción de origen no especificado,2011,1243
+J342,Desviación del tabique nasal,2011,1235
+O410,Oligohidramnios,2011,1221
+K429,Hernia umbilical sin obstrucción ni gangrena,2011,1139
+A419,Septicemia  no especificada,2011,1132
+N40X,Hiperplasia de la próstata,2011,1111
+P599,Ictericia neonatal  no especificada,2011,1074
+K37X,Apendicitis  no especificada,2011,1051
+O420,Infección del riñón en el embarazo,2011,1046
+Z370,Atención no especificada relacionada con la procreación,2011,991
+C56X,Tumor maligno del ovario,2011,944
+K922,Hemorragia gastrointestinal  no especificada,2011,920
+J46X,Estado asmático,2011,916
+O141,Preeclampsia severa,2011,895
+C539,Tumor maligno del cuello del útero  sin otra especificación,2011,894
+S822,Fractura de la diáfisis de la tibia,2011,851
+J180,Bronconeumonía  no especificada,2011,833
+N390,Infección de vías urinarias  sitio no especificado,2011,815
+O820,Trabajo de parto prematuro con parto prematuro,2011,809
+S424,Fractura de la epífisis inferior del húmero,2011,804
+K566,Otras obstrucciones intestinales y las no especificadas,2011,803
+S720,Fractura del cuello de fémur,2011,793
+K729,Insuficiencia hepática  no especificada,2011,778
+O033,Aborto espontáneo incompleto  con otras complicaciones especificadas y las no especificadas,2011,764
+E118,Diabetes mellitus no insulinodependiente  con complicaciones no especificadas,2011,719
+C629,Tumor maligno del testículo  no especificado,2011,717
+P220,Síndrome de dificultad respiratoria del recién nacido,2011,713
+P228,Otras dificultades respiratorias del recién nacido,2011,712
+O363,Atención materna por signos de hipoxia fetal,2011,699
+O13X,Hipertensión gestacional [inducida por el embarazo] sin proteinuria significativa,2011,695
+Z302,Esterilización,2011,680
+H269,Catarata  no especificada,2011,672
+Z303,Extracción menstrual,2011,659
+I10X,Hipertensión esencial (primaria),2011,655
+N47X,Prepucio redundante  fimosis y parafimosis,2011,648
+C504,Tumor maligno del cuadrante superior externo de la mama,2011,631
+S099,Traumatismo de la cabeza  no especificado,2011,628
+K804,Cálculo de conducto biliar con colecistitis,2011,609
+K800,Cálculo de la vesícula biliar con colecistitis aguda,2011,589
+E112,Diabetes mellitus no insulinodependiente  con complicaciones renales,2011,578
+G409,Epilepsia  tipo no especificado,2011,577
+K859,Pancreatitis aguda  no especificada,2011,573
+K439,Hernia ventral sin obstrucción ni gangrena,2011,558
+O021,Aborto retenido,2011,557
+O200,Amenaza de aborto,2011,549
+N202,Cálculo del riñón con cálculo del uréter,2011,546
+C531,Tumor maligno del exocérvix,2011,525
+C349,Tumor maligno de los bronquios o del pulmón  parte no especificada,2011,522
+O321,Atención materna por presentación de nalgas,2011,512
+N188,Otras insuficiencias renales crónicas,2011,509
+N939,Hemorragia vaginal y uterina anormal  no especificada,2011,505
+O009,Embarazo ectópico  no especificado,2011,504
+S729,Fractura del fémur  parte no especificada,2011,500
+K805,Cálculo de conducto biliar sin colangitis ni colecistitis,2011,499
+N832,Otros quistes ováricos y los no especificados,2011,496
+O063,Aborto no especificado incompleto  con otras complicaciones especificadas y las no especificadas,2011,487
+N039,Síndrome nefrítico crónico  no especificada,2011,482
+G809,Parálisis cerebral  sin otra especificación,2011,481
+F103,Hiperuricemia sin signos de artritis inflamatoria y enfermedad tofácea,2011,479
+H258,Otras cataratas seniles,2011,477
+K350,Apendicitis aguda con peritonitis generalizada,2011,476
+E115,Diabetes mellitus no insulinodependiente  con complicaciones circulatorias periféricas,2011,469
+F102,Trastornos mentales y del comportamiento debidos al uso de alcohol  síndrome de dependencia,2011,467
+D251,Leiomioma intramural del útero,2011,466
+E119,Neumonía  no especificada,2011,461
+O039,Aborto espontáneo completo o no especificado  sin complicación,2011,457
+J350,Amigdalitis crónica,2011,454
+O479,Falso trabajo de parto  sin otra especificación,2011,454
+Z511,Leucemia linfoblástica aguda,2011,453
+O809,Parto único espontáneo  sin otra especificación,2012,34015
+R69X,Atención materna por muerte intrauterina,2012,20010
+O829,Parto por cesárea  sin otra especificación,2012,9952
+N180,Insuficiencia renal terminal,2012,6184
+N189,Insuficiencia renal crónica  no especificada,2012,4804
+K359,Apendicitis aguda  no especificada,2012,4580
+O800,Parto único espontáneo  sin otra especificación,2012,3883
+O064,Aborto no especificado incompleto  sin complicación,2012,3408
+K409,Hernia inguinal unilateral o no especificada  sin obstrucción ni gangrena,2012,3184
+J189,Neumonía  no especificada,2012,3148
+C910,Leucemia linfoblástica aguda,2012,2909
+K801,Cálculo de la vesícula biliar con otra colecistitis,2012,2764
+O821,Trabajo de parto prematuro con parto prematuro,2012,2513
+K811,Colecistitis crónica,2012,2180
+O069,Aborto no especificado completo o no especificado  sin complicación,2012,2169
+D259,Leiomioma del útero  sin otra especificación,2012,2050
+O601,Trabajo de parto prematuro con parto prematuro,2012,2042
+P073,Diarrea y gastroenteritis de presunto origen infeccioso,2012,1796
+I258,Otras formas de enfermedad isquémica crónica del corazón,2012,1724
+C509,Hipertensión esencial (primaria),2012,1533
+O429,Ruptura prematura de las membranas  sin otra especificación,2012,1486
+O470,Falso trabajo de parto antes de las 37 semanas completas de gestación,2012,1442
+P369,Sepsis bacteriana del recién nacido  no especificada,2012,1429
+A09X,Diarrea y gastroenteritis de presunto origen infeccioso,2012,1404
+S828,Fractura de otras partes de la pierna,2012,1379
+O342,Atención materna por cicatriz uterina debida a cirugía previa,2012,1359
+K429,Hernia umbilical sin obstrucción ni gangrena,2012,1358
+Q248,Sepsis bacteriana del recién nacido  no especificada,2012,1323
+O034,Aborto espontáneo incompleto  sin complicación,2012,1253
+A419,Septicemia  no especificada,2012,1157
+O410,Oligohidramnios,2012,1155
+F200,Esquizofrenia paranoide,2012,1145
+J219,Bronquiolitis aguda  no especificada,2012,1135
+S069,Traumatismo intracraneal  no especificado,2012,1130
+J342,Desviación del tabique nasal,2012,1088
+C56X,Tumor maligno del ovario,2012,1073
+O339,Atención materna por desproporción de origen no especificado,2012,1039
+N40X,Hiperplasia de la próstata,2012,964
+J46X,Estado asmático,2012,950
+N390,Infección de vías urinarias  sitio no especificado,2012,941
+K922,Hemorragia gastrointestinal  no especificada,2012,915
+S822,Fractura de la diáfisis de la tibia,2012,891
+P599,Ictericia neonatal  no especificada,2012,890
+Z302,Esterilización,2012,887
+C539,Tumor maligno del cuello del útero  sin otra especificación,2012,849
+K37X,Apendicitis  no especificada,2012,841
+K729,Insuficiencia hepática  no especificada,2012,798
+S424,Fractura de la epífisis inferior del húmero,2012,794
+S720,Fractura del cuello de fémur,2012,783
+C629,Tumor maligno del testículo  no especificado,2012,762
+O363,Atención materna por signos de hipoxia fetal,2012,754
+N47X,Prepucio redundante  fimosis y parafimosis,2012,729
+K566,Otras obstrucciones intestinales y las no especificadas,2012,721
+S099,Traumatismo de la cabeza  no especificado,2012,716
+H269,Catarata  no especificada,2012,679
+O200,Amenaza de aborto,2012,676
+I10X,Hipertensión esencial (primaria),2012,675
+O141,Preeclampsia severa,2012,673
+P228,Otras dificultades respiratorias del recién nacido,2012,641
+K859,Pancreatitis aguda  no especificada,2012,637
+F103,Hiperuricemia sin signos de artritis inflamatoria y enfermedad tofácea,2012,614
+C20X,Tumor maligno del recto,2012,602
+F102,Trastornos mentales y del comportamiento debidos al uso de alcohol  síndrome de dependencia,2012,602
+K439,Hernia ventral sin obstrucción ni gangrena,2012,602
+P220,Síndrome de dificultad respiratoria del recién nacido,2012,601
+E118,Diabetes mellitus no insulinodependiente  con complicaciones no especificadas,2012,600
+K810,Cálculo de conducto biliar con colecistitis,2012,589
+K800,Cálculo de la vesícula biliar con colecistitis aguda,2012,586
+N832,Otros quistes ováricos y los no especificados,2012,569
+K805,Cálculo de conducto biliar sin colangitis ni colecistitis,2012,564
+N939,Hemorragia vaginal y uterina anormal  no especificada,2012,562
+O13X,Hipertensión gestacional [inducida por el embarazo] sin proteinuria significativa,2012,561
+C349,Tumor maligno de los bronquios o del pulmón  parte no especificada,2012,560
+J459,Asma  no especificado,2012,548
+O021,Aborto retenido,2012,547
+E112,Diabetes mellitus no insulinodependiente  con complicaciones renales,2012,546
+O033,Aborto espontáneo incompleto  con otras complicaciones especificadas y las no especificadas,2012,522
+K350,Apendicitis aguda con peritonitis generalizada,2012,520
+E115,Diabetes mellitus no insulinodependiente  con complicaciones circulatorias periféricas,2012,517
+O420,Infección del riñón en el embarazo,2012,509
+G409,Epilepsia  tipo no especificado,2012,507
+C189,Tumor maligno del colon  parte no especificada,2012,505
+J180,Bronconeumonía  no especificada,2012,502
+G809,Parálisis cerebral  sin otra especificación,2012,501
+O600,Trabajo de parto prematuro sin parto,2012,496
+S729,Fractura del fémur  parte no especificada,2012,496
+M179,Gonartrosis  no especificada,2012,494
+O009,Embarazo ectópico  no especificado,2012,493
+N202,Cálculo del riñón con cálculo del uréter,2012,489
+O689,Trabajo de parto y parto complicados por sufrimiento fetal  sin otra especificación,2012,482
+Z33X,Diarrea y gastroenteritis de presunto origen infeccioso,2012,471
+S068,Otros traumatismos intracraneales,2012,470
+C73X,Tumor maligno de la glándula tiroides,2012,466
+D251,Leiomioma intramural del útero,2012,464
+O039,Aborto espontáneo completo o no especificado  sin complicación,2012,463
+K819,Cálculo de conducto biliar con colecistitis,2012,459
+O820,Trabajo de parto prematuro con parto prematuro,2012,458
+O063,Aborto no especificado incompleto  con otras complicaciones especificadas y las no especificadas,2012,456
+Z358,Supervisión de otros embarazos de alto riesgo,2012,456
+C169,Tumor maligno del estómago  parte no especificada,2012,452
