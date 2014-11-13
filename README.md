@@ -1,4 +1,4 @@
-cercano
+Laboratorio de Ciencia Ciudadana del INMEGEN
 =======
 
 Temas genómicos
