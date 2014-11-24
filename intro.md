@@ -1,11 +1,18 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Introducción
+permalink: /intro/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Formalmente, la ciencia ciudadana ha sido definida como “la
+recopilación y análisis sistemático de datos, el desarrollo de la
+tecnología, las pruebas de los fenómenos naturales, y la difusión de
+estas actividades por los investigadores sobre una base principalmente
+vocacional”.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+## Objetivos
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* reproducibilidad/verificabilidad
+El método científico precisa de reproducibilidad de los resultados.
+
+
