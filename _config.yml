@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   temas de Salud y Medicina Genómica en México.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lc3.github.io" # the base hostname & protocol for your site
+url: "http://lc3-inmegen.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  LC3-INMEGEN
 
