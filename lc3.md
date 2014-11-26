@@ -19,6 +19,7 @@ recopilación y análisis sistemático de datos, el desarrollo de la
 tecnología, las pruebas de los fenómenos naturales, y la difusión de
 estas actividades por los investigadores sobre una base principalmente
 vocacional".
+
 A través de la colaboración entre ciudadanos entusiastas y científicos
 profesionales la investigación se vuelve
 
