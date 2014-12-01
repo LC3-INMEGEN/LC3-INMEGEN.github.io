@@ -5,23 +5,28 @@ date:   2014-12-01 12:00
 description: "Infograma sobre alimentos que se consumen y dimensiones corporales"
 ---
 
-Tomamos datos de la
-[Encuesta Nacional de Salud](http://ensanut.insp.mx/). Originalmente
-los distribuyen en formato de SPSS, pero usamos la versión libre
-[PSPP](http://www.gnu.org/software/pspp/) para convertirlos a
-separados por comas, con este comando:
 
-    GET FILE="/home/abc/bcs_vf.sav".
-    SAVE TRANSLATE /OUTFILE='mydata.csv' /TYPE=CSV.
+La gráfica muestra qué alimentos se consumen por qué perfiles de
+antropometría: bajo peso, peso normal, sobrepeso y obesidad.
 
-Acá los
-[datos de antropometría](/data/antropometria/antropometria.csv). Por
-otro lado cruzamos esos datos con los de frecuencia alimentaria,
-descárgalos [acá](/data/antropometria/antro_freq_nutri_adulto_2012.csv).
+Desplazar el puntero sobre la gráfica muestra qué alimentos se
+consumen por qué perfiles. Por ejemplo: el 55.5% de las verduras
+congeladas las consumen hombres con sobrepeso, el resto por personas
+con obesidad, mientras que el 70% de las cajas de cereal
+multi-ingredientes las consumen mujeres con peso normal.
 
-Luego escribimos un script para convertirlos al formato
-[json](http://json.org) que consume la biblioteca
-[NVD3](http://nvd3.org) con la que está hecho el infograma.
+
+Para filtrar por perfil antropométrico haz click sobre los círculos de
+colores. Por ejemplo: eligiendo sólo normal y sobrepeso vemos que el
+consumo alimenticio de hombres con obesidad no es muy diferente del de
+hombres con peso normal. De donde inferimos que para ellos hacer
+ejercicio es determinante. En el caso de las mujeres el contraste
+entre sobrepeso y peso normal está muy relacionado a la dieta.
+
+Esperamos que esta información te de una perspectiva interesante sobre
+la alimentación y sus efectos en tu peso... ¡cuida bien tu
+alimentación en esta época festiva-decembrina-invernal!
+
 
 
 <div class="chart-dash thirdfour" style="width:100%">
@@ -46,3 +51,27 @@ Luego escribimos un script para convertirlos al formato
 <script src="/static/multiBarChart.js"></script>
 
 <script src="/static/2014-12-01-antropomorfia.js"></script>
+
+
+
+
+## Materiales y métodos
+
+Tomamos datos de la
+[Encuesta Nacional de Salud](http://ensanut.insp.mx/). Originalmente
+los distribuyen en formato de SPSS, pero usamos la versión libre
+[PSPP](http://www.gnu.org/software/pspp/) para convertirlos a
+separados por comas, con este comando:
+
+    GET FILE="/home/abc/bcs_vf.sav".
+    SAVE TRANSLATE /OUTFILE='mydata.csv' /TYPE=CSV.
+
+Acá los
+[datos de antropometría](/data/antropometria/antropometria.csv).
+
+Estos otros son datos de 
+[antropometría con frecuencia alimentaria](/data/antropometria/antro_freq_nutri_adulto_2012.csv).
+
+Luego escribimos un script para convertirlos al formato
+[json](http://json.org) que consume la biblioteca
+[NVD3](http://nvd3.org) con la que está hecho el infograma.
