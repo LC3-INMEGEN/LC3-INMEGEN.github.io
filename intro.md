@@ -12,7 +12,7 @@ vocacional”.
 
 El [LC3](https://LC3-INMEGEN.github.io) auspiciado por el
 [Instituto Nacional de Medicina Genómica](http://www.inmegen.gob.mx/)
-busca brindar reunir científicos profesionales con ciudadanos
+busca reunir científicos profesionales con ciudadanos
 entusiastas para colaborar en el desarrollo de proyectos de análisis
 de datos y visualización en torno a temas de Salud y Medicina Genómica
 en México.
