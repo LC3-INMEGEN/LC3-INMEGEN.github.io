@@ -19,8 +19,6 @@ en México.
 
 Esta página, junto con los datos y todo el software para las
 visualizaciones que compartimos están disponibles a través de un
-repositorio abierto a colaboración y escrutiño, aquí:
-
-https://github.com/LC3-INMEGEN/LC3-INMEGEN.github.io
+repositorio abierto a colaboración y escrutiño, [aquí](https://github.com/LC3-INMEGEN/LC3-INMEGEN.github.io).
 
 ¡Únete!
