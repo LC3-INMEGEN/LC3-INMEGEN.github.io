@@ -72,6 +72,7 @@ Acá los
 Estos otros son datos de 
 [antropometría con frecuencia alimentaria](/data/antropometria/antro_freq_nutri_adulto_2012.csv).
 
-Luego escribimos un script para convertirlos al formato
-[json](http://json.org) que consume la biblioteca
-[NVD3](http://nvd3.org) con la que está hecho el infograma.
+Luego escribimos
+[este script](https://github.com/LC3-INMEGEN/LC3-INMEGEN.github.io/blob/master/scripts/antropometria/antropometria_csv2json.py)
+para convertirlos al formato [json](http://json.org) que consume la
+biblioteca [NVD3](http://nvd3.org) con la que está hecho el infograma.
