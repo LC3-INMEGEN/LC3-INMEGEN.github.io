@@ -5,6 +5,24 @@ date:   2014-12-01 12:00
 description: "Infograma sobre alimentos que se consumen y dimensiones corporales"
 ---
 
+Tomamos datos de la
+[Encuesta Nacional de Salud](http://ensanut.insp.mx/). Originalmente
+los distribuyen en formato de SPSS, pero usamos la versión libre
+[PSPP](http://www.gnu.org/software/pspp/) para convertirlos a
+separados por comas, con este comando:
+
+    GET FILE="/home/abc/bcs_vf.sav".
+    SAVE TRANSLATE /OUTFILE='mydata.csv' /TYPE=CSV.
+
+Acá los
+[datos de antropometría](/data/antropometria/antropometria.csv). Por
+otro lado cruzamos esos datos con los de frecuencia alimentaria,
+descárgalos [acá](/data/antropometria/antro_freq_nutri_adulto_2012.csv).
+
+Luego escribimos un script para convertirlos al formato
+[json](http://json.org) que consume la biblioteca
+[NVD3](http://nvd3.org) con la que está hecho el infograma.
+
 
 <div class="chart-dash thirdfour" style="width:100%">
 
