@@ -3,6 +3,7 @@ layout: jspost
 title:  "MeSH TERMS @ INMEGEN"
 date:   2014-11-24 16:26:36
 description: Un mapa de temas importantes para la investigación en Medicina Genómica en México.
+author: Alejandro Martínez y Rodrigo García
 ---
 
 Red de términos en las publicaciones nivel III, IV y V del [INMEGEN](http://www.inmegen.gob.mx/). 

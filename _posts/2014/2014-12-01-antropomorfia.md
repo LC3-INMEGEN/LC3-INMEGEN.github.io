@@ -3,6 +3,7 @@ layout: post
 title:  "Antropomorfía, obesidad y nutrición"
 date:   2014-12-01 12:00
 description: "Infograma sobre alimentos que se consumen y dimensiones corporales"
+author: Alejandro Martínez y Rodrigo García
 ---
 
 
