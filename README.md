@@ -1,5 +1,7 @@
 Laboratorio de Ciencia Ciudadana del INMEGEN
 =======
+Blog: http://lc3-inmegen.github.io/
+
 
 Temas genómicos
 ===============================
