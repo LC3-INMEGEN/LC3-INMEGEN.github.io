@@ -17,8 +17,8 @@ beneficiarios suelen ser estudiantes e investigadores que trabajan acá
 en el INMEGEN.
 
 Pero tenemos la misión de hacer Ciencia Ciudadana, así que: ciudadano,
-también tú estás invitado. Escríbeme a rgarcia@inmegen.gob.mx o a
-lc3@inmegen.gob.mx, con gusto te ayudaremos a instalar GNU/Linux en tu
+también tú estás invitado. Escríbeme lc3@inmegen.gob.mx, 
+con gusto te ayudaremos a instalar GNU/Linux en tu
 laptop o con problemas de cómputo cientifico (y de cómputo en general)
 que tengas sobre esa plataforma.
 
