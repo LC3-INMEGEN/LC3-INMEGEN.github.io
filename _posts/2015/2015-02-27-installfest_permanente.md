@@ -48,12 +48,10 @@ programas bien lindos.
 Para que la experiencia sea productiva, es necesario que antes de
 venir atiendas estos requisitos:
 
-- hacer una cita
+- hacer una cita (por email)
 - respaldar tus cosas (de todas maneras respaldas siempre, ¿no? ;-))
 - si tu laptop sabe arrancar desde un USB, traer uno
 - si tu laptop sólo sabe arrancar desde un CD, traer uno virgen
 
 
-
-- proporción, tasa, relación entre dos variables
-- dinámica: variable vs. tiempo
+¡Te esperamos!
