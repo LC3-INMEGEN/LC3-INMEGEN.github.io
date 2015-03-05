@@ -5,6 +5,14 @@ description: Trae tu computadora, te ayudamos a instalar y usar GNU/Linux en ell
 author: Rodrigo García
 ---
 
+ **Update**: ¡Han descontinuado CrunchBang! Lástima, está bien suave
+  esa distro. Igual es como dice el autor y por estos días te instalas
+  [Debian-netinst](https://www.debian.org/CD/netinst/) y encima de eso
+  [LXDE](http://lxde.org). Mejor aún, alguna de las [distribuciones que
+  recomienda la FSF](https://www.gnu.org/distros/free-distros.es.html).
+  
+----
+
 El formato habitual de un installfest es una gran reunión. En un sólo
 suceso llegan muchos usuarios experimentados y muchos neófitos y se
 trata de instalar software libre para todos. Normalmente se acompaña
@@ -23,7 +31,8 @@ laptop o con problemas de cómputo cientifico (y de cómputo en general)
 que tengas sobre esa plataforma.
 
 Si vienes con una PC te la llevarás corriendo
-[CrunchBang](http://crunchbang.org), una distribución sofisticada y
+~~[CrunchBang](http://crunchbang.org)~~
+[Trisquel](http://trisquel.info/), una distribución sofisticada y
 funcional que seguramente te hará el más popular de la cuadra. Tal vez
 tengamos tiempo de examinar otros programas tremendamente útiles, como
 [LyX](http://lyx.org) o
