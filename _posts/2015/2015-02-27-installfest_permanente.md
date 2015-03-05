@@ -31,7 +31,7 @@ laptop o con problemas de cómputo cientifico (y de cómputo en general)
 que tengas sobre esa plataforma.
 
 Si vienes con una PC te la llevarás corriendo
-~~[CrunchBang](http://crunchbang.org)~~
+<del>[CrunchBang](http://crunchbang.org)</del>
 [Trisquel](http://trisquel.info/), una distribución sofisticada y
 funcional que seguramente te hará el más popular de la cuadra. Tal vez
 tengamos tiempo de examinar otros programas tremendamente útiles, como
