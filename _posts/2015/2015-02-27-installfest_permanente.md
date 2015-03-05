@@ -5,7 +5,7 @@ description: Trae tu computadora, te ayudamos a instalar y usar GNU/Linux en ell
 author: Rodrigo García
 ---
 
- __Update__: ¡Han descontinuado CrunchBang! Lástima, está bien suave
+<b>Update</b>: ¡Han descontinuado CrunchBang! Lástima, está bien suave
   esa distro. Igual es como dice el autor y por estos días te instalas
   [Debian-netinst](https://www.debian.org/CD/netinst/) y encima de eso
   [LXDE](http://lxde.org). Mejor aún, alguna de las [distribuciones que
