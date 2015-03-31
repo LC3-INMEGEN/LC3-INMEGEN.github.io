@@ -34,5 +34,16 @@ participantes.
 > "En el 'install-fest permanente' tuve la oportunidad de introducirme a
 > un nuevo sistema operativo; y no solo eso, si no que recibí consejos
 > utiles acerca de como manejarlo. Creo que es una introducción muy
-> amigable al computo científico y lo recomiendo ampliamente." 
+> amigable al computo científico y lo recomiendo ampliamente."
+>
 >   --  [@diandrago](https://twitter.com/diandrago)
+
+
+> "El taller de Unix que tomamos en el departamento de informática me
+> resultó muy útil para el desarrollo de mi trabajo de investigación.
+> Los instructores son muy accesibles y conocen bien del tema, por lo
+> que te pueden ayudar con los problemas específicos de cada proyecto.
+> Sin duda, tener una mayor colaboración con los demás departamentos del
+> instituto enriquece la calidad del trabajo."
+>
+>   -- [@fercornejog](https://twitter.com/fercornejog)
