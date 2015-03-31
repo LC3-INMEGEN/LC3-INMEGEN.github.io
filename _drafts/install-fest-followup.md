@@ -30,3 +30,9 @@ participantes.
 
 
 <img src="/static/installfest-permanente-ddrago-agmartinez.jpg" width="50%">
+
+> "En el 'install-fest permanente' tuve la oportunidad de introducirme a
+> un nuevo sistema operativo; y no solo eso, si no que recibí consejos
+> utiles acerca de como manejarlo. Creo que es una introducción muy
+> amigable al computo científico y lo recomiendo ampliamente." 
+>   --  [@diandrago](https://twitter.com/diandrago)
