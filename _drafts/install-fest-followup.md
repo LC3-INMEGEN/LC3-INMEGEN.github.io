@@ -5,7 +5,7 @@ description: Nos reunimos, instalamos, aprendimos y enseñamos
 author: Rodrigo García, Alejandro Marínez, Raúl Mejía, et al.
 ---
 
-El Install-fest permanente es un éxito. El último mes nos hemos
+El [Install-fest permanente](http://lc3-inmegen.github.io/2015/02/27/installfest_permanente.html) es un éxito. El último mes nos hemos
 reunido con varias personas en diferentes ocasiones. Instalamos
 diferentes sabores de GNU/Linux: BioLinux, Lubuntu, CentOS y Debian.
 
@@ -39,6 +39,8 @@ participantes.
 >   --  [@diandrago](https://twitter.com/diandrago)
 
 
+
+
 > "El taller de Unix que tomamos en el departamento de informática me
 > resultó muy útil para el desarrollo de mi trabajo de investigación.
 > Los instructores son muy accesibles y conocen bien del tema, por lo
@@ -47,3 +49,23 @@ participantes.
 > instituto enriquece la calidad del trabajo."
 >
 >   -- [@fercornejog](https://twitter.com/fercornejog)
+
+
+
+
+> ¡El conocimiento debe ser para todos! El poder aprender y conocer
+> sobre temas que te interesen y gusten es una gran oportunidad para tu
+> crecimiento personal y profesional, ese entusiasmo lo vivimos por
+> parte de los oganizadores de este curso con el install fest por
+> Rodrigo, Raul y Diana; comenzando desde la instalacion de software y
+> programas para nuestras compuradoras que son de suma importancia para
+> los análisis bioinformáticos en nuestros diversos experimentos
+> genómicos, y con la ayuda de ellos hemos aprendido desde el uso de
+> comandos básicos hasta como aprender a manipular mejor nuestras
+> computadoras; esto con el fin, del día de mañana poder realizar y/o
+> aplicar estos conocimientos para el análisis de nuestros experimentos.
+> Sin duda es grandioso poder contar con personas expertas en el tema y
+> poder interactuar informacion y más aún, poder obtener conocimiento
+> para nuestra formación.
+>
+> -- Alejandra Valdez
