@@ -39,6 +39,7 @@ participantes.
 >   --  [@diandrago](https://twitter.com/diandrago)
 
 
+<img src="/static/installfest-permanente0.jpg" width="50%">
 
 
 > "El taller de Unix que tomamos en el departamento de informática me
@@ -51,6 +52,8 @@ participantes.
 >   -- [@fercornejog](https://twitter.com/fercornejog)
 
 
+
+<img src="/static/installfest-permanente1.jpg" width="50%">
 
 
 > ¡El conocimiento debe ser para todos! El poder aprender y conocer
