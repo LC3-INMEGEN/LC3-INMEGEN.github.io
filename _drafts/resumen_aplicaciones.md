@@ -16,7 +16,7 @@ nuestra aplicación. Hay básicamente tres partes importantes de todas las
 aplicaciones que son; la interacción con el paciente (en general el principal 
 usuario de la aplicación), la interacción con el medico y en algunos casos poner 
 en contacto a medico y paciente.
--Interacción con el paciente (usuario)
+## Interacción con el paciente (usuario)
 En general la mayor parte de estas aplicaciones cuentan con algún tipo de forma 
 de agendar el consumo de medicinas así como en algunos casos las consultas al 
 medico. En la mayoría de estas es muy importante el que tengan la capacidad de 
@@ -33,7 +33,7 @@ que se puede saber que tanto se ha gastado en medicamentos, consultas, etc.. Por
 otro lado una de las aplicaciones incluye una base de datos para encontrar 
 medicamentos similares que puedan ser mucho mas económicos que los que receta el 
 medico.  
--Interacción con el medico
+## Interacción con el medico
 La otra parte esencial es la interacción con el medico. Todas las aplicaciones 
 manejan de diferente forma esta interacción. Lo que tienen en común es la parte 
 central de la aplicación que es contar con un historial medico para cada uno de 
@@ -53,7 +53,7 @@ por correo electrónico la historia mas reciente previamente a una consulta. Por
 ultimo existe también la posibilidad de utilizar el seguro social (en el caso de 
 médicos ascritos), con un sistema similar al que se utiliza de Medicare en 
 Estados Unidos.
--Contacto paciente y medico
+## Contacto paciente y medico
 Existe también una ultima funcionalidad muy interesante que ha sido explorada 
 por algunas de estas aplicaciones, que es el poner a medico y paciente en 
 contacto por medio de esta misma aplicación. Como funciona es que el usuario de 
