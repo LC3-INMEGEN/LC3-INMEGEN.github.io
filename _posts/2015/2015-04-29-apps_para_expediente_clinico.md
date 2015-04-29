@@ -1,11 +1,12 @@
 ---
 layout: jspost
 title: Apps para expediente clínico electrónico
-description: Revisión aplicaciones existentes
+description: Revisión no-exhaustiva de aplicaciones existentes
 author: Aldric Lopez
 ---
 
 # Apps para expediente clínico electrónico
+
 ## Mi revisión no-exhaustiva
 
 Soy Aldric López y como parte de mi servicio social en el
