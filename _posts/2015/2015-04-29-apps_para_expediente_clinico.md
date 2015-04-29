@@ -5,7 +5,6 @@ description: Revisión no-exhaustiva de aplicaciones existentes
 author: Aldric Lopez
 ---
 
-# Apps para expediente clínico electrónico
 
 ## Mi revisión no-exhaustiva
 
