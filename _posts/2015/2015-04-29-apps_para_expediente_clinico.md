@@ -37,10 +37,10 @@ que se resumen a distintos tipos alarmas programables en el teléfono.
 Un par de funcionalidades muy interesantes que se pueden aplicar
 dentro de este rubro de recordatorios de medicinas y de futuras
 consultas, son el monitoreo de gastos acumulados que se tienen a lo
-largo del tiempo. Esto es de mucha ayuda ya que se puede saber que
+largo del tiempo. Esto es de mucha ayuda ya que se puede saber qué
 tanto se ha gastado en medicamentos, consultas, etc. Por otro lado una
 de las aplicaciones incluye una base de datos para encontrar
-medicamentos similares que puedan ser mucho mas económicos que los que
+medicamentos similares que puedan ser mucho más económicos que los que
 receta el médico.
 
 ## Interacción con el médico
