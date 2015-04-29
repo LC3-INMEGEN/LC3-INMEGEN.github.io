@@ -13,7 +13,7 @@ Soy Aldric López y como parte de mi servicio social en el
 [este proyecto](https://github.com/LC3-INMEGEN/ECEP) para desarrollar
 una nueva aplicación móvil.
 
-Revisé
+Como parte del proceso de diseño revisé
 [distintas aplicaciones](https://github.com/LC3-INMEGEN/ECEP/blob/master/aplicaciones.md)
 para encontrar las mejores funcionalidades que tengan en común, así
 como características sobresalientes que se pudieran aplicar para la
