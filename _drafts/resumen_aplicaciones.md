@@ -5,11 +5,13 @@ description: Revisión aplicaciones existentes
 author: Aldric Lopez
 ---
 
-# Resumen de Aplicaciones
+# Apps para expediente clínico electrónico
+## Mi revisión no-exhaustiva
 
-Soy Aldric López y como parte de mi servicio social, me he dedicado a
-participar en [este proyecto](https://github.com/LC3-INMEGEN/ECEP)
-para desarrollar una nueva aplicación móvil.
+Soy Aldric López y como parte de mi servicio social en el
+[INMEGEN](http://www.inmegen.gob.mx/), me he dedicado a participar en
+[este proyecto](https://github.com/LC3-INMEGEN/ECEP) para desarrollar
+una nueva aplicación móvil.
 
 Revisé
 [distintas aplicaciones](https://github.com/LC3-INMEGEN/ECEP/blob/master/aplicaciones.md)
@@ -22,7 +24,7 @@ interacción con el paciente (en general el principal usuario de la
 aplicación), la interacción con el médico y en algunos casos poner en
 contacto a médico y paciente.
 
-## Interacción con el paciente (usuario)
+## Interacción con el paciente
 
 La mayor parte de estas aplicaciones cuentan con alguna forma de
 agendar el consumo de medicinas y en algunos casos las consultas al
