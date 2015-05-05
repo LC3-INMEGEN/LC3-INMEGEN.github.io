@@ -6,27 +6,22 @@ description: "Algunos métodos y consideraciones de seguridad dentro de la aplic
 author: Sergio Lezama
 ---
 
-Como parte de mi servicio social en el INMEGEN he estado colaborando en el LC3, con una tarea que
-nos fue encomendada, el desarrollo y creación de una [aplicación para dispositivos móviles] (https://github.com/LC3-INMEGEN/ECEP).
-Para esto se tuvo que decidir el enfoque que se le daría, considerando los posibles usos que la aplicación pudiera
-tener. Al principio se pensó en una aplicación que ayudara a recolectar datos útiles para futuras
-investigaciones en el área de genómica nutricional, todo esto con el enfoque de una aplicación para
-jugar y competir con otros usuarios. También se consideró realizar un Expediente Clínico Electrónico
-Personal (ECEP) debido a que sería de gran utilidad para las personas que quisieran llevar de una forma
-más ordenada su información médica. Se terminó por elegir el ECEP ya que se pensó que aparte de ser una
-buena herramienta para los usuarios, y al igual se podía integrar la parte de recolección de datos, para
-el monitoreo constante de la salud del usuario o su posible uso en investigaciones de salud.
+Como parte de mi servicio social en el INMEGEN he estado colaborando en el LC3, con el diseño de una aplicación para dispositivos móviles. Para esto se tuvo que decidir el enfoque que se le daría, considerando los posibles usos que la aplicación pudiera tener. Al principio se pensó en una aplicación que ayudara a recolectar datos útiles para 
+investigaciones en el área de nutrigenómica, pero al final elegimos el desarrollo de un [Expediente Clínico Electrónico
+Personal (ECEP)](https://github.com/LC3-INMEGEN/ECEP) debido a que sería de gran utilidad para las personas que quisieran llevar de una forma más ordenada su información médica. Se terminó por elegir el ECEP ya que se pensó que aparte de ser una buena herramienta para los usuarios, se podía integrar la parte de recolección de datos que habíamos pensado originalmente, para el monitoreo constante de la salud del usuario o su posible uso en investigaciones de salud.
 
-Para iniciar con el desarrollo de esta aplicación se realizó un investigación bibliográfica dentro de
+Para iniciar con el desarrollo de esta aplicación se realizó un [revisión bibliográfica](https://github.com/LC3-INMEGEN/ECEP/blob/master/bibliografia.md) dentro de
 la cual se consideraron varios aspectos que debía contener la aplicación, siendo uno de los más relevantes
 el tema de la seguridad de los datos de usuarios. Después de hacer la revisión de varios artículos
 relacionados, se pueden mencionar los puntos más importantes a ser considerados, y de los cuales se
 habla a continuación.
 
+## Algunas consideraciones de seguridad
+
 Con el desarrollo de nuevas tecnologías como el almacenaje de datos en la nube y el incremento del uso de
 dispositivos móviles como celulares inteligentes y tabletas, hoy en día los investigadores tienen otra opción
 para realizar estudios de una manera más eficiente en cuanto a la recolección de datos y una manera más cómoda
-para los usuarios. En este caso, con el desarrollo del ECEP, se han encontrado una serie de inconvenientes
+para los usuarios. En el caso del desarrollo del ECEP, se han encontrado una serie de consideraciones
 en cuanto a la seguridad de los datos que son recolectados en los dispositivos móviles y posteriormente
 enviados a través de una conexión a internet para su posterior análisis. El mayor problema que tiene este
 modelo, es la seguridad que tienen los datos al momento de ser enviados, ya que se requiere de un sistema
@@ -62,10 +57,9 @@ tener el control total de un canal de comunicación entre el usuario y el servid
 debe de ser incapaz de obtener más de dos datos de los tres disponibles (datos de la tarjeta de
 identificación, contraseña o datos biométricos).
 
-Con estos puntos mencionados, es posible tener un sistema seguro para ingresar a los datos, esto debido a
-que se desvincula la información personal de los datos que son recolectados, y solo es posible que el
-usuario al que pertenecen dichos datos pueda ingresar a estos, o si el usuario lo permite, también estarían
-disponibles para profesionales de la salud e investigadores.
+Considerando estos puntos, es posible tener un sistema seguro para acceder a los datos, debido a
+que se desvincula la información personal de los datos que son recolectados, y solo es posible para el
+dueño acceder a ellos, o si lo permite, también estarían disponibles para profesionales de la salud e investigadores.
 
 # Referencias:
 
