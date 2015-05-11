@@ -67,9 +67,15 @@ aprende GIT, aprende UN*X!
 # Cartel:
 
 Laboratorio Computacional de Ciencia Ciudadana @ INMEGEN
+
+
 convoca al
-Hackatón PubMed-Mining
-26 de mayo 2015
+
+
+## Hackatón PubMed-Mining
+
+
+26 de mayo 2015,
 10 AM - ?
 
 Participa en esta actividad horizontal e intensiva de desarrollo
