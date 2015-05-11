@@ -1,7 +1,7 @@
 ---
 layout: jspost
 title:  "Seguridad de datos personales en Expediente Clínico Electrónico Personal"
-date:   2015-04-08 12:00
+date:   2015-05-11 12:00
 description: "Algunos métodos y consideraciones de seguridad dentro de la aplicación móvil del ECEP"
 author: Sergio Lezama
 ---
