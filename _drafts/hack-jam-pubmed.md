@@ -62,6 +62,17 @@ biblioteca [NetworkX](https://networkx.github.io/), aprende a
 [crear módulos de PSU Galaxy](https://wiki.galaxyproject.org/Admin/Tools/AddToolTutorial),
 aprende GIT, aprende UN*X!
 
+## Cómo llegar
+
+Esta es la dirección:
+
+    [NMEGEN], Periférico Sur No. 4809 piso 5
+    Col. Arenal Tepepan
+    Delegación Tlalpan.
+
+Acá un conveniente mapa:
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-99.17143821716309%2C19.272865637943028%2C-99.12732124328613%2C19.30049130215692&amp;layer=mapnik&amp;marker=19.28667905268825%2C-99.14937973022461" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=19.2867&amp;mlon=-99.1494#map=15/19.2867/-99.1494&amp;layers=N">View Larger Map</a></small>
 
 ----
 # Cartel:
