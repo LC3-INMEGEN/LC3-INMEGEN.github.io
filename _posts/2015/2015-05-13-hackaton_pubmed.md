@@ -5,6 +5,8 @@ description: "Hackea con nosotros software para minería de PubMed."
 author: Rodrigo García
 ---
 
+<img src="/carteles/hackaton_pubmed.png" width="95%" />
+
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/) es una base de datos de
 referencias bibliográficas acerca de ciencia biomédica y biológica. Es
 un recurso excelente, mucha investigación de vanguardia empieza ahí,
