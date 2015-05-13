@@ -62,43 +62,28 @@ biblioteca [NetworkX](https://networkx.github.io/), aprende a
 [crear módulos de PSU Galaxy](https://wiki.galaxyproject.org/Admin/Tools/AddToolTutorial),
 aprende GIT, aprende UN*X!
 
+## Requisitos
+
+ * Trae una laptop para que trabajes en ella
+ * Confirma tu asistencia con un correo a rgarcia@inmegen.gob.mx o a lc3@inmegen.gob.mx
+
 ## Cómo llegar
 
 Esta es la dirección:
 
-    [NMEGEN], Periférico Sur No. 4809 piso 5
-    Col. Arenal Tepepan
-    Delegación Tlalpan.
+**INMEGEN**
+
+**Periférico Sur No. 4809 piso 5**
+
+**Col. Arenal Tepepan**
+
+**Delegación Tlalpan**
+
 
 Acá un conveniente mapa:
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-99.17143821716309%2C19.272865637943028%2C-99.12732124328613%2C19.30049130215692&amp;layer=mapnik&amp;marker=19.28667905268825%2C-99.14937973022461" style="border: 1px solid black"></iframe>
 
-<a href="http://www.openstreetmap.org/?mlat=19.2867&amp;mlon=-99.1494#map=15/19.2867/-99.1494&amp;layers=N">Mapa más grande</a>
-
-----
-# Cartel:
-
-Laboratorio Computacional de Ciencia Ciudadana @ INMEGEN
-
-
-convoca al
-
-
-## Hackatón PubMed-Mining
-
-
-26 de mayo 2015,
-10 AM - ?
-
-Participa en esta actividad horizontal e intensiva de desarrollo
-colaborativo de software libre, aplicado a investigación biomédica.
-
-Involúcrate en el desarrollo de herramientas de minería de
-referencias bibliográficas.
-
-¡Aprende -sin prisas- a minar PubMed, Python y la interesante
-biblioteca NetworkX, aprende a crear módulos de PSU Galaxy, aprende
-GIT, aprende UN*X!
-
-Más información: QR
+<a
+href="http://www.openstreetmap.org/?mlat=19.2867&amp;mlon=-99.1494#map=15/19.2867/-99.1494&amp;layers=N">En
+openstreetmap</a>
