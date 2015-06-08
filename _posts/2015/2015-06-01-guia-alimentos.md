@@ -10,7 +10,7 @@ Actualmente existe una gran variedad de páginas web que muestran
 listados de alimentos y sus beneficios, sin embargo no especifican de forma clara, 
 el rumbo que tomaron para llegar a esas conclusiones.
 
-Por eso nos hemos propuesto a desarrollar un [sitio](http://10.0.1.62/) donde se pueda
+Por eso nos hemos propuesto a desarrollar un [sitio](http://guiadealimentos.inmegen.gob.mx:8081/) donde se pueda
 analizar los principales nutrientes de los alimentos.
 
 Esperamos que poco a poco esta guía se vaya nutriendo de más datos y mejores algoritmos, para así tener mejores análisis,
@@ -19,4 +19,4 @@ buena alimentación.
 
 # Materiales y Métodos
 
-[En la página web](http://10.0.1.62/about/). 
+[En la página web](http://guiadealimentos.inmegen.gob.mx:8081/about/). 
