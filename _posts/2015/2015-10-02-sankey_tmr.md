@@ -39,7 +39,7 @@ conocido como
 
 En la extrema izquierda de la gráfica se encuentran todos los factores
 de transcripción y del lado derecho están los genes que forman la
-firma molecular. En el centro podemos ver algunas de las
+firma molecular además del resto de los genes. En el centro podemos ver algunas de las
 características de estos FT: la segunda columna nos dice en qué parte
 de la célula se encuentra y la tercera con qué fenómeno biológico está
 asociado.
